@@ -6,8 +6,11 @@
 
 ## Getting Started
 
-Este é um simples modelo de jogo da forca, sem interface gráfica. Para jogar execute 
-o arquivo main.py  
+Este é um simples modelo de jogo da forca, sem interface gráfica, desenvolvido para aplicar os conceitos de POO utilizando Python.
+
+A base deste código tem como referência: https://github.com/dsacademybr/PythonFundamentos/tree/master/Cap06/Lab03 
+
+Para jogar execute o arquivo main.py  
 
 ## Requisitos
 Você precisará ter instalado na sua máquina python 3.6 (ou superior)
@@ -27,13 +30,19 @@ aparecerá na tela, se a palavra tiver a letra repetida aparecerá todas.
     tabuleiro, nesse caso o jogador perde.
 
 ## Telas do Jogo
+
 Tela inicial do jogo
+
 [![jogo_inicial](https://i.imgur.com/lgvASvv.png "jogo_inicial")](https://i.imgur.com/lgvASvv.png "jogo_inicial")
 
+
 Tela quando o jogador ganha
+
 [![jogo_ganho](https://i.imgur.com/5KFSqAX.png "jogo_ganho")](https://i.imgur.com/5KFSqAX.png "jogo_ganho")
 
+
 Tela quando o jogador perde
+
 [![jogo_perdido](https://i.imgur.com/F5bYMD6.png "jogo_perdido")](https://i.imgur.com/F5bYMD6.png "jogo_perdido")
     
 ## Contribuições
