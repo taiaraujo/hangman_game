@@ -24,8 +24,10 @@ aparecerá na tela, se a palavra tiver a letra repetida aparecerá todas.
 4. Caso o jogador digite um letra a qual não esteja contida na palavra um parte do bonequinho será desenhada no tabuleiro.
 5. Caso o jogador digite mais de uma vez a mesma letra, independente se esteja ou não na palavra, será considerado um erro, e uma parte do bonequinho será desenhada.
 6. O jogo termina em dois eventos:
+    
     i. ou o jogador acerta todas as letras da palavra, antes do desenho do bonequinho se complete,
     e nesse caso o jagador ganha.
+    
     ii. ou quando todo o desenho do bonequinho se complete no 
     tabuleiro, nesse caso o jogador perde.
 
